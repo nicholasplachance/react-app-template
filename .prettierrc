@@ -1,0 +1,7 @@
+{
+    "extends": "/usr/local/lib/node_modules/stylelint-config-standard",
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true
+  }
